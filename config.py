@@ -1,16 +1,18 @@
-dBOT_TOKEN = ''
+dBOT_TOKEN = '7057835566:AAFvVI6knIuRVXkp84KWJIvWOGrNEjuVuz8
+'
 BOT_USERNAME = 'MonkeyBett_bot'
 INVOICE_LINK = 'http://t.me/send?start=IV7At7pCRjY0'
-CRYPTOBOT_TOKEN = ''
-CHANNEL_ID = 
-LOGS_ID = 
-COEFFICIENT = 1.8
-ADMINS = []
-NEWS_CHANNEL_LINK = 'https://t.me/monkeybetnew'
-CHAT_LINK = 'https://t.me/monkeybet_chat'
-SUPPORT_LINK = 'https://t.me/bibizannft'
-ADAPTER_LINK = 'https://t.me/monkey_b3t'
-HELP_LINK = 'https://t.me/c/2207076454/2538'
+CRYPTOBOT_TOKEN = '260414:AAT42GCmdNAYFFWsb39Qj8n3qb61Hfes5oa
+'
+CHANNEL_ID = -1002056388271
+LOGS_ID = -1002241301442
+COEFFICIENT = 1.9
+ADMINS = [6372950353]
+NEWS_CHANNEL_LINK = 'https://t.me/flippyNOVOSTI'
+CHAT_LINK = 'https://t.me/flippycasino_chat'
+SUPPORT_LINK = 'https://t.me/official_neender'
+ADAPTER_LINK = 'https://t.me/Flippy_Casino'
+HELP_LINK = 'https://t.me/FLIPPY_PRAVILA'
 LINKS_TEXT = '<b><a href="%s">Как сделать ставку?</a> | <a href="%s">Новостной канал</a> | <a href="%s">Наш чат</a> | <a href="%s">Техническая поддержка</a> | <a href="%s">Переходник</a></b>' % (HELP_LINK, NEWS_CHANNEL_LINK, CHAT_LINK, SUPPORT_LINK, ADAPTER_LINK)
 WIN = 'https://i.yapx.ru/X0oz9.png'
 LOSE = 'https://i.yapx.ru/X0o0e.png'
