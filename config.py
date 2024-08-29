@@ -1,6 +1,6 @@
 dBOT_TOKEN = ''
 BOT_USERNAME = 'MonkeyBett_bot'
-INVOICE_LINK = 't.me/send?start='
+INVOICE_LINK = 'http://t.me/send?start=IV7At7pCRjY0'
 CRYPTOBOT_TOKEN = ''
 CHANNEL_ID = 
 LOGS_ID = 
